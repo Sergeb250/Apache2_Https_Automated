@@ -14,6 +14,7 @@ Ideal for:
 - Local development environments
 - Internal tools requiring encrypted traffic
 - Educational and research purposes
+![SSL Script Screenshot](https://raw.githubusercontent.com/Sergeb250/Apache2_Https_Automated/87548a73807af1718d0637633c2d689ecf8b69ea/Screenshot%202025-04-17%20191720.png)
 
 > ⚠️ *Not for use in production environments where trusted CA certificates are required.*
 
